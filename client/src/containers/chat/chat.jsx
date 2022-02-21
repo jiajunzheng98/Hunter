@@ -28,7 +28,7 @@ class Chat extends Component {
 
       
     this.emojis = emojis.map(emoji => ({text: emoji}));
-    }
+  }
     
 
   componentDidMount() {
